@@ -1,11 +1,5 @@
 .ve-header "Diary #8" https://edisondigital.rutgers.edu/iiif/MA031 "Menlo Park N.J. July 19, 1885" pct:30,30,60,40 center sticky - Home - About==placeholder=={Menlo Park N.J. July 19, 1885}==placeholder=={Menlo Park N.J. July 12, 1885}[]
 
-# Diary #8 
-
-## Menlo Park N.J. July 19, 1885
-
-Edison's Home in Menlo Park 
-
 ### Page 1
 
 .ve-media https://edisondigital.rutgers.edu/iiif/MA031 left
@@ -36,6 +30,4 @@ After supper ==Mrs. G=={Q117536483}, Daisy and **Louise** with myself as an inci
 
 shining brightly girls called my attention several times to beauty of the light from said moon shining upon the waters, couldnt appreciate it, was so busy taking a mental triangulation of the moon the two sides of said triangle meeting the base line of the earth at Woodside and ==Akron, Ohio=={Q163132}. Miss Igoe told us about her love of ancient literature, how she loved to read latin, but couldn't. I told her I was so fond of Greek that I always rushed for the comedies of Aristophanes to read whenever I had the jumping toothache. Bed Mina, Morning.
 
-.ve-graphic [https://www.flickr.com/photos/mastatelibrary/9458639237/in/album-72157634970087059/](https://drive.google.com/drive/my-drive) 
-
-Woodside Villa Boston Harbor
+.ve-graphic [https://www.flickr.com/photos/mastatelibrary/9458639237/in/album-72157634970087059/]
