@@ -1,2 +1,37 @@
-# 4
+.ve-header "Diary #4" https://edisondigital.rutgers.edu/iiif/MA015 "Menlo Park N.J. July 15, 1885" pct:30,30,60,40 center sticky
+    - [Home](/)
+    - [About](/about)==placeholder=={Menlo Park N.J. July 15, 1885}==placeholder=={Menlo Park N.J. July 15, 1885}[]
 
+# Diary #4 
+
+## Menlo Park N.J. July 15, 1885
+
+Edison's Home in Menlo Park 
+
+### Page 1
+
+.ve-media https://edisondigital.rutgers.edu/iiif/MA015 left
+
+Slept well breakfasted clear up to my adams apple took shawl strap and went to Boston with ==Damon=={description="Damon was Edison’s literary nickname for Ezra Gilliland, a reference to the Greek mythological figure who, with Pythias, personified unstintingly loyal friendship."} with following memorandum of things to get. Lavatar on the human face ==Miss Clevelands book=={Q117762288} Helosie by Rosseau short neckties Wilhelm Meister Basket fruit Sorrows of Werther Madam Recamiers works Diary books pencils Telephone documents ==Mark Twains=={Q7245} gummed Potentiality of Literature ie scrap book. also book called "How success is won" containing life of Dr Vincent & something in about Minas father and your humble servitor. Found that only copy of Lavatar which I saw the other day had been sold to some one who was on the same lay as myself Bought Disraeli's Curriosities of Literature instead Got Miss Cs book Twains scrap book Diary books, How Success is Won also fruit among which are some peaches which the vendor said came from California think
+    
+### Page 2
+
+.ve-media https://edisondigital.rutgers.edu/iiif/MA015 seq=2 left
+
+of a lie 3000 miles long There seemed to be a South Carolina accent in their taste Started back to office with fruit, apparantly by the same route I came, brought up in a strange street saw landmark and got on right course again Boston ought to be buoyed and charts furnished strangers Damon suggests American District Messenger buoys with uniform Saw a lady who looked like ==Mina=={Q22087338} got thinking about Mina and came near being run over by a street car  If Mina interferes much more I will have to take out an accident policy  Went to dinner at a sort of No-bread-with-one-fishball restaurant then came up towards Damons office, met Damon Madden and Ex Gov Howard of Rhode Island. The Governor whom I know and who is very deaf greeted me with a boiler yard voice. He has to raise his voice so he can hear himself to enable him to check off  the acuracy of his pronounciationThe Governor never has much time, always in a hurry full of business, inebriated with industry If he should be on his death bed I believe he would 
+
+### Page 3
+
+.ve-media https://edisondigital.rutgers.edu/iiif/MA015 seq=3 left
+
+call in a short hand clerk to dictate directions for his funeral, short sketch of his life, taking a press copy of the same in case of litigation Madden looks well in the face but I am told its an Undertakers blush Went to Damons office he was telling me about a man who had a genius for stupidity when Vail came in dressed like Beau Brummel, both went into another room to try some experiments on Damons Phonometer Saw Hovey a very very bright newspaper man told me a story related to him by a man who I never would have imagined could or would have told such stories I refer to a gentleman in the employment of the Telephone Co who Tomlinson nicknamed "Prepositum" because he got off that word in a business conversation, his eminent respectability so impressed Tomlinson that when he came out of his office asked me to take him quickly somewhere disreputable so he could recover. This story would have Embarassed Satan  I shall not relate it, but I have called it "Prepositums Turkish Compromise" Hovey told me a lot about a 6th sense, mind reading etc 
+
+### Page 4
+
+.ve-media https://edisondigital.rutgers.edu/iiif/MA015 seq=4 left
+
+made some suggestions about ==Railroad Telegraph=={description="At this time Edison and Gilliland were collaborating on experiments in railway telegraphy, a system for sending telegraph messages through the air, without connective wires, to or from a moving train. Erastus Wiman was interested in testing Edison&#39;s system on his Staten Island Railway. They finally conducted a public demonstration on 1 February 1886. However, the system was never used commercially."} Came home with Damon at 5 oclock Damon has an ulcerated molar Just before supper ==Mrs Roberts=={description="This was very likely Hinda Roberts, née Barnes (1839– 1909), whose husband, George Litch Roberts, was a patent attorney with offices at 95 Milk St., Boston, in the same building as Ezra Gilliland and the American Bell Telephone Co., for which he did extensive defense work. Hinda had attended Wesleyan Academy in Wilbraham, Mass., and Mount Holyoke (apparently without graduating), and she and her husband were known to be accomplished musicians"} and another lady came in to visit ==Mrs G.=={description="Lillian Gilliland, the daughter of Sidney Johnson, a carpenter and machinist of Madison, Ind., became Ezra Gilliland’s secondwife in 1880. According to Edison’s daughter Marion, she played a central role in introducing Edison to eligible young women.Two of them were Daisy Gaston and Louise Igoe, both of Indianapolis."} Mrs R is a charming woman Condensed sunshine beautiful plays piano like a long haired professor played several of Lange's pieces first time seeing them.  This seems so incomprehensible to me as a man reciting the Lords prayer in four languages simultaneously Mrs R promised to come tomorrow evening and bring with her a lady who sings beautifully and a boy dripping with music made some suggestions about Railroad Telegraph Everyone after supper started their Diary Mrs G ==Miss Igoe=={description="Louise M. Igoe (1858?– 1936) of Indianapolis was visiting Boston as a guest of Lillian Gilliland. A friend of Mina Miller’s older sister Jane, Louise introduced Mina to the Gillilands. She later married Mina’s older brother Robert Anderson Miller. Her brother Philip married Lillie Fox, Lillian Gilliland’s friend, in 1886."} ==Miss Daisy=={description="Grace 'Daisy' Gaston (1859– 1940), daughter of John M. Gaston, a prominent Indianapolis physician, was Ezra and Lillian Gilliland’s guest at their rented summer home during Edison’s earlier visit from late June to early July. She was still there, perhaps according to a plan to introduce Edison to eligible young women, when he returned on July 14."} and ==Dot=={description="Marion Estelle (Dot) Edison (1873-1965) was the oldest child of TAE and Mary Stilwell. Edison gave her the nickname 'Dot' as a child. Between 1883 and 1888 she attended private schools in New York and Massachusetts. In 1889, she left school to join her step-aunts Mary Emily Miller and Grace Miller in Paris. She came back to the United States in 1892 but returned to Europe the following year. She married Oscar Oeser, a German army officer, on October 1, 1895 and lived in Germany for the next thirty years. Their marriage began to deteriorate during World War I. They divorced in 1921. She returned to the United States in 1925 and lived first in East Orange, New Jersey and then in Norwalk, Connecticut."} went to bed at 11:30. Forgot two nights running to ask Damon for night shirt That part of my memory which has charge of the night shirt department is evidently out of order.
+
+.ve-graphic [https://www.flickr.com/photos/mastatelibrary/9458639237/in/album-72157634970087059/](https://drive.google.com/drive/my-drive) 
+
+Woodside Villa Boston Harbor
