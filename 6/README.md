@@ -2,10 +2,6 @@
     - [Home](/)
     - [About](/about)==placeholder=={Menlo Park N.J. July 17, 1885}==placeholder=={Menlo Park N.J. July 17, 1885}[]
 
-# Diary #6 
-
-## Menlo Park N.J. July 17, 1885
-
 ### Page 1
 
 .ve-media https://edisondigital.rutgers.edu/iiif/MA023 left
