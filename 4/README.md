@@ -2,6 +2,8 @@
     - [Home](/)
     - [About](/about)==placeholder=={Menlo Park N.J. July 15, 1885}==placeholder=={Menlo Park N.J. July 15, 1885}[]
 
+## Woodside Villa July 15, 1885
+
 ### Page 1
 
 .ve-media https://edisondigital.rutgers.edu/iiif/MA015 left
