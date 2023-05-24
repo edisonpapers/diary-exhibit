@@ -1,6 +1,6 @@
 .ve-header "Diary Entry #4" https://edisondigital.rutgers.edu/iiif/MA015 "Menlo Park N.J. July 15, 1885" pct:30,30,60,40 center sticky
     - [Home](/)
-    - [About](/about)==placeholder=={Woodside Villa July 15, 1885}==placeholder=={Menlo Park N.J. July 15, 1885}[]
+    - [About](/about)==placeholder=={Woodside Villa, July 15, 1885}==placeholder=={Menlo Park N.J. July 15, 1885}[]
 
 ## Woodside Villa July 15, 1885
 
