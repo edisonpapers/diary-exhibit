@@ -1,10 +1,10 @@
-.ve-header "Diary Entry #8" https://edisondigital.rutgers.edu/iiif/MA031 "Menlo Park N.J. July 19, 1885" pct:30,30,60,40 center sticky - Home - About==placeholder=={Menlo Park N.J. July 19, 1885}==placeholder=={Menlo Park N.J. July 12, 1885}[]
+.ve-header "Diary Entry #8" https://edisondigital.rutgers.edu/iiif/MA031 "Woodside Villa, Boston Harbor, July 19, 1885" pct:30,30,60,40 center sticky - Home - About==placeholder=={Menlo Park N.J. July 19, 1885}==placeholder=={Menlo Park N.J. July 12, 1885}[]
 
 # Page 1
 
 .ve-media https://edisondigital.rutgers.edu/iiif/MA031 left
 
-<div style="text-align: right"><h4>Woodside Villa July 19 1885</h4><br></div>
+<div style="text-align: right"><h4>Woodside Villa July 19th 1885</h4><br></div>
 
 Slept as sound as a bug in a barrell of ==morphine=={Q81225}. Donned a boiled and starched emblem of respectability Eat food for breakfast, Weather delightful— Canary seed orchestra started up with same old tune, ancestors of this bird sang the self same tune 6000 years ago to Adam down on the Euphrates, way back when Abel got a situation as the first angel— Read Sunday Herald, learned of ==John Roache's=={Q6255029} failure—am sorry—he has been pursued with great malignity by newspapers and others, from ignorance I think— Americans ought to be proud of Roach who started life as a day laborer and became the giant of industry and the greatest shipbuilder in the United States employing thousands of men and feeding innumerable families— what has he now for this 40 years of incessant work and worry People who hound such men as these I would invent a special Hadaes. I would stricken them with the chronic sciatic neuralagia and cause them to wander forever stark naked within the artic circle— Saw in same paper account of base ball match, this struck me as something unusual—Read more about that immeasurable immensity of tact and beauty Madame
 
