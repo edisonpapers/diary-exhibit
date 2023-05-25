@@ -2,7 +2,7 @@
     - [Home](/)
     - [About](/about)==placeholder=={Woodside Villa, July 15, 1885}[]
 
-## Woodside Villa, July 15, 1885
+## Woodside Villa July 15, 1885
 
 ### Page 1
 
