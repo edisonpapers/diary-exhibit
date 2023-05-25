@@ -2,7 +2,6 @@
 
 ## Page 1
 
-
 .ve-media https://edisondigital.rutgers.edu/iiif/MA001 left
 
 <div style="text-align: right"><h5>Menlo Park N.J.<br>Sunday July 12 1885</h5><br></div>
