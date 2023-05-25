@@ -1,10 +1,10 @@
-.ve-header "Diary Entry #10" https://edisondigital.rutgers.edu/iiif/MA039 "Menlo Park N.J. July 21, 1885" pct:30,30,60,40 center sticky - Home - About==placeholder=={Menlo Park N.J. July 21, 1885}==placeholder=={Menlo Park N.J. July 21, 1885}[]
+.ve-header "Diary Entry #10" https://edisondigital.rutgers.edu/iiif/MA039 "Woodside Villa, Boston Harbor, July 21, 1885" pct:30,30,60,40 center sticky - Home - About==placeholder=={Menlo Park N.J. July 21, 1885}==placeholder=={Menlo Park N.J. July 21, 1885}[]
 
 # Page 1
 
 .ve-media https://edisondigital.rutgers.edu/iiif/MA039 left
 
-<div style="text-align: right"><h4>Woodside Villa July 21 1885</h4><br></div>
+<div style="text-align: right"><h4>Woodside July 21 1885</h4><br></div>
 
 Slept splendidly evidently I was innoculated with isomnic bactilli when a baby arose early went out to flirt with the flowers. I wonder if there are not microscopic orchids growing on the motes of the air Saw big field of squashes throwing out their leafy tenticles to the wind preparing to catch the little fleeting atom for assimutation into its progeny the squash gourd— A spider weaves its net to catch an organized whole, how like this is the vegitable living plant, the leaves and stalk catch the primal free atom all an are then arranged in an organized whole. Heard a call from the house that sounded like the shreick of a lost angel, it was a female voice three sizes too small for the distance and was a call for breakfast— After breakfast laid down on a sofa, fell into light draught sleep dreamed that in the depth of space, on a bleak and gigantic planet the solitary soul of the great ==Napoleon=={Q517} was the sole inhabitant. I saw him as in the pictures, in
 
