@@ -1,3 +1,5 @@
+.ve-header "Thomas Edison's 1885 Diary" https://edisondigital.rutgers.edu/iiif/MA001 "July 1885" pct:30,30,60,40 center sticky - Home - About==placeholder=={Menlo Park N.J. and Woodside Villa July 12, 1885}==placeholder=={Menlo Park N.J. July 12, 1885}[]
+
 # Thomas Edison’s 1885 Diary 
 
 Edison enjoyed part of the summer of 1885 in Boston and environs, in the company of long-time friend Ezra Gilliland and his wife Lillian.  It is unclear if Edison’s first visit to the Gillilands' rented cottage Woodside Villa in Winthrop, on the shore of Boston Harbor, took place in early   in June; he returned to New York by 9 June. He set out once again for Winthrop via Boston on 18 June, was back in New York by 8 July, and seems to have returned to Menlo Park by 11 July. Two days later, Edison started again on an overnight journey, this time with his daughter Marion, to Boston and ultimately Winthrop, where he spent the week of 14–21 July with his daughter Marion and other guests. During this last visit, Edison and others in the party each kept a diary to be shared for their mutual entertainment.  
