@@ -1,5 +1,4 @@
-.ve-header "Edison's Diary Exhibit" https://edisondigital.rutgers.edu/iiif/MA036 "July 1885" pct:30,30,60,40 center sticky
-    - [Home](/)
+ - [Home](/)
     - [Introduction](/introduction)
     - [Diary Entry 1](/1)
     - [Diary Entry 2](/2)
